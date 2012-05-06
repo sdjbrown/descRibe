@@ -1,0 +1,11 @@
+Package: descRibe
+Type: Package
+Title: Taxonomic descriptions in natural language
+Version: 0.0-0
+Date: 2012-03-29
+Author: Samuel Brown
+Maintainer: Samuel Brown <s_d_j_brown@hotmail.com>
+Description: A package to create natural-language taxonomic descriptions from tables of characters
+License: GPL
+LazyLoad: yes
+Depends: 

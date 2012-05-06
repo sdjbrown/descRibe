@@ -1,0 +1,12 @@
+citHeader("It's not ready for anything yet, but if you really want to cite descRibe in a publication, please use:")
+
+citEntry(entry="Article",
+	title = "{descRibe}: Taxonomic descriptions in natural language",
+        author = personList(as.person("Samuel D. J. Brown")),
+  	year = 2012,
+	note = R package version 0.0-0,
+	url = {https://github.com/sdjbrown/descRibe},
+	
+        textVersion = "Brown S. D. J. 2012. descRibe: Taxonomic descriptions in natural language. R package version 0.0-0. https://github.com/sdjbrown/descRibe")
+
+citFooter("As descRibe is developing rapidly, you may want to cite also its version number (found with 'library(help = descRibe)').")
